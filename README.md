@@ -1,8 +1,8 @@
-<h1 align="left">Hi there 👋 What's up?</h1>
+<h1 align="left">Hi there 👋 What's up? Welcome to my GitHub profile!</h1>
 
 ###
 
-<p align="left">My name is Lucas and I'm from Belo Horizonte - MG,  Brazil</p>
+<p align="left">My name is Lucas and I'm from Belo Horizonte, Brazil. This is where i share my projects and the progress of my software development skills </p>
 
 ###
 
