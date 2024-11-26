@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lucas and I'm from Belo Horizonte, Brazil. This is where i share my projects and the progress of my software development skills </p>
+<p align="left">My name is Lucas and I'm from Belo Horizonte, Brazil. This is where i share my projects and the progress of my software development skills. 👨‍💻 </p>
 
 ###
 
